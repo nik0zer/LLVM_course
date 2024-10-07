@@ -1,1 +1,5 @@
 *.out
+*.so
+.vscode
+*.o
+*.ll
