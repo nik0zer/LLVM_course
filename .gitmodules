@@ -1,0 +1,3 @@
+[submodule "LLVM_BackEnd/llvm-project"]
+	path = LLVM_BackEnd/llvm-project
+	url = https://github.com/nik0zer/llvm-project
